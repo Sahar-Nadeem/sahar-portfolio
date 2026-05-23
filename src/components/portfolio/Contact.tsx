@@ -23,7 +23,7 @@ export function Contact() {
           <div className="space-y-4 pt-4">
             <div>
               <p className="text-[10px] uppercase tracking-[0.35em] text-cream/50">Email</p>
-              <p className="font-display text-2xl text-cream">hello@saharnadeem.dev</p>
+              <p className="font-display text-2xl text-cream">saharnadi1721@gmail.com</p>
             </div>
             <div>
               <p className="text-[10px] uppercase tracking-[0.35em] text-cream/50">GitHub</p>
