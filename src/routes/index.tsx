@@ -40,7 +40,6 @@ function Index() {
       <Projects />
       <Experience />
       <Skills />
-      <Gallery />
       <Contact />
       <Footer />
     </main>
