@@ -67,12 +67,7 @@ export function Hero() {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-ink/30 via-transparent to-transparent" />
             </div>
-            <div className="absolute -bottom-6 -right-4 glass rounded-2xl px-5 py-4 shadow-soft">
-              <p className="font-script text-2xl text-ink leading-none">est. 2024</p>
-              <p className="text-[10px] uppercase tracking-[0.3em] text-muted-foreground mt-1">
-                Crafting digital art
-              </p>
-            </div>
+          
           </div>
         </div>
       </div>
