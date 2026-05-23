@@ -1,4 +1,4 @@
-import sweet from "@/assets/project-sweetstreet.JPG";
+import sweet from "@/assets/project-sweetstreet.jpg";
 import jabeen from "@/assets/project-jabeenfoods.JPG";
 import wedding from "@/assets/project-Wedding.JPG";
 
