@@ -1,6 +1,6 @@
 import sweet from "@/assets/project-sweetstreet.jpg";
-import jabeen from "@/assets/project-jabeenfoods.JPG";
-import wedding from "@/assets/project-Wedding.JPG";
+import jabeen from "@/assets/project-jabeen.jpg";
+import wedding from "@/assets/project-wedding.jpg";
 
 const projects = [
   {
